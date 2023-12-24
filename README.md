@@ -39,6 +39,9 @@ Ensure that you have Python installed on your machine. You can download Python f
 ### Windows
 
 1. Open a terminal or command prompt.
+
+    `pip install pyttsx3`
+    
     
 2. Navigate to the project directory:
     
